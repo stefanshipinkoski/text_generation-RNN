@@ -1,0 +1,8 @@
+name: text-generation-RNN
+channels:
+  defaults
+dependencies:
+  - python=3.10
+  - tensorflow
+  - keras
+  - numpy
