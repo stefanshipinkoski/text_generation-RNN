@@ -8,7 +8,8 @@ Generate text using RNN.
 Create training examples and targets for text generation.
 Build an RNN model for sequence generation using Keras Subclassing.
 Create a text generator and evaluate the output.
-Sample Output
+
+## Sample Output:
 
 ```bash
 QUEENE:  
