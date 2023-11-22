@@ -55,10 +55,15 @@ While some of the sentences are grammatical, most do not make sense. The model h
 
 ## Technologies Used:
 
-Python3.10
-TensorFlow
-Keras
-Numpy
+- Python3.10
+
+- TensorFlow
+
+- Numpy
+
+- NLP
+
+- RNN
 
 
 ## Getting Started
@@ -72,7 +77,7 @@ To get a local copy up and running follow these simple steps.
 git clone https://github.com/stefanshipinkoski/text-generation-RNN
 ```
 
-2. Change the project direcotry
+2. Change the project directory
 ```bash
 cd text-generation-RNN
 ```
@@ -81,10 +86,12 @@ cd text-generation-RNN
 ```bash
 conda env create -f enviorment.yml
 ```
+
 4. Activate the conda environment:
 ```bash
 conda activate water-quality-env
 ```
+
 5. Run Jupyter Notebook in the directory
 ```bash
 jupyter notebook
